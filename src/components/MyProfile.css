@@ -1,0 +1,35 @@
+.mainDiv{
+    height: 100vh; 
+}
+
+.col-md-4{
+    /* border: 1px solid red; */
+    border-radius: 100px;
+    background-image: linear-gradient(rgb(255, 149, 0),rgb(0, 0, 0));
+}
+.container{
+    color: aliceblue;
+}
+.col-md-8{
+    border-radius: 0px 10px 0px 0px;
+    padding-left: 1%;
+    border-left: 2px solid rgb(27, 23, 23);
+}
+.card-name{
+    text-shadow: 1.5px 1px 1px rgb(5, 30, 138);
+    color: rgb(172, 184, 6);
+}
+.card-mail{
+    text-decoration: underline;
+}
+.mailLogo{
+    width: 25px;
+}
+.row{
+    box-shadow: 5px 5px 5px black;
+}
+
+.card {
+
+    border: none
+}

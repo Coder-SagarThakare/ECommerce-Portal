@@ -1,0 +1,58 @@
+.rightCol-RegPage {
+    width: 50%;
+
+}
+.leftCol-RegPage {
+    width: 50%;
+    align-items: center;
+    
+}
+.regImg{
+    height: 80%;
+    width: 80%;
+}
+
+.RegPage{
+    height: 90vh;
+    background-color: #E4FAFF;
+
+}
+.regForm{
+    align-items: center;
+    width: 100%;
+}
+
+
+.regError {
+    height: 20px;
+    padding: 10px;
+    text-align: center;
+    color: red;
+    font-weight: bold;
+    visibility: hidden;
+}
+
+.regForm{
+  background-color: #E4FAFF;
+
+}
+.regForm > input{
+    width: 80%;
+    border-radius: 5px;
+    background-color: transparent;
+    outline: none;
+    border: 2px solid rgb(126, 136, 189);
+    color: rgb(0, 0, 0);
+    box-sizing: border-box;
+    padding: 1% 2%;
+}
+.regButton{
+    outline: none;
+    border-radius: 10px;
+    background-color: transparent;
+    /* background-color: #a2a2a2; */
+
+}
+.regButton:hover{
+    background-color: rgb(107, 107, 224);
+}
